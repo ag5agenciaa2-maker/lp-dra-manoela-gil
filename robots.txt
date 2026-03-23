@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://manoelagil.com.br/sitemap.xml
+Sitemap: https://www.dramanoelagil.ag5agencia.site/sitemap.xml
 
 # AI Bots (GEO Optimization)
 User-agent: GPTBot
